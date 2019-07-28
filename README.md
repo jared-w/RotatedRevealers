@@ -1,4 +1,8 @@
 # Rotated Revealer
+Heavily modified from the original Rotated Revealer repo.
+The purpose of this exercise was to reproduce the revealer effects as close as possible using only vanilla javascript and CSS animations.
+
+---
 
 Demos of the tutorial on how to create and animate a rotated overlay, or "reveal" element for interesting page transition effects.
 
@@ -24,8 +28,3 @@ Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www
 
 
 [© Codrops 2019](http://www.codrops.com)
-
-
-
-
-
